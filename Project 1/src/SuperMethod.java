@@ -21,7 +21,7 @@ class B extends A {
 public class SuperMethod {
 
 	public static void main(String[] args) {
-//    A obj = new A();
+    A obj = new A();
     B obj1 = new B(2);
     
 	}
